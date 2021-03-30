@@ -122,7 +122,5 @@ cmd执行jar -jar xxx.jar 即可启动
 Discussing
 ----------
 
-- [submit issue](https://github.com/PomZWJ/database-export/issues/new)
-- E-mail: 1513041820@qq.com
-- WX:ZWJ1513041820
-
+- [submit issue](https://github.com/miniministar/database-export/issues/new)
+- E-mail: 1005712028@qq.com
