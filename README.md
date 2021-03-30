@@ -1,4 +1,4 @@
-![](https://github.com/PomZWJ/database-export/blob/master/screenshot/fav.png?raw=true)
+![](https://github.com/miniministar/database-export/blob/master/screenshot/fav.png?raw=true)
 
 **database-export V2.1.0**
 =========================
@@ -41,9 +41,8 @@ cmd执行jar -jar xxx.jar 即可启动
 
 |            |     WIN_NO_JRE                    |  WIN_WITH_JRE                           
 | -------    |     :-----:                       |     :----:                              |
-| V.1.0.0    | [database-export-1.0.0_noJre8.rar](https://github.com/PomZWJ/database-export/releases/download/1.0.0/database-export-1.0.0_noJre8.rar)  |   [database-export-1.0.0_withJre8.rar](https://github.com/PomZWJ/database-export/releases/download/1.0.0/database-export-1.0.0_withJre8.rar)    |
-| V.2.0.0    | [database-export-2.0.0_noJre8.rar](https://github.com/PomZWJ/database-export/releases/download/2.0.0/database-export-2.0.0_noJre8.rar)      |   [database-export-2.0.0_withJre8.rar](https://github.com/PomZWJ/database-export/releases/download/2.0.0/database-export-2.0.0_withJre8.rar)    |
-| V.2.1.0    | (后续版本都不含jre1.8,win和linux都是同一个包,不再区分)  https://pan.baidu.com/s/1A7EttMBIdVy3oAkFd0zo-w  提取码6gdr |
+| V.1.0.0    | [database-export-1.0.0_noJre8.rar](https://github.com/miniministar/database-export/releases/download/1.0.0/database-export-1.0.0_noJre8.rar)  |   [database-export-1.0.0_withJre8.rar](https://github.com/miniministar/database-export/releases/download/1.0.0/database-export-1.0.0_withJre8.rar)    |
+| V.2.0.0    | [database-export-2.0.0_noJre8.rar](https://github.com/miniministar/database-export/releases/download/2.0.0/database-export-2.0.0_noJre8.rar)      |   [database-export-2.0.0_withJre8.rar](https://github.com/miniministar/database-export/releases/download/2.0.0/database-export-2.0.0_withJre8.rar)    |
 
 
 
@@ -83,16 +82,13 @@ cmd执行jar -jar xxx.jar 即可启动
 ## 4.项目截图
 
 **ORACLE**
-![](https://github.com/PomZWJ/database-export/blob/master/screenshot/v2/indexv2-1.png?raw=true)
+![](https://github.com/miniministar/database-export/blob/master/screenshot/v2/indexv2-1.png?raw=true)
 
 **MYSQL**
-![](https://github.com/PomZWJ/database-export/blob/master/screenshot/v2/indexv2-2.png?raw=true)
+![](https://github.com/miniministar/database-export/blob/master/screenshot/v2/indexv2-2.png?raw=true)
 
 **SQL**
-![](https://github.com/PomZWJ/database-export/blob/master/screenshot/v2/indexv2-3.png?raw=true)
-
-## 5.想加入技术开发群的加我，备注加群即可
-<img src="https://raw.githubusercontent.com/PomZWJ/colornote-vue/master/screenshot/wx_icon.jpg" width="300" height="300"/>
+![](https://github.com/miniministar/database-export/blob/master/screenshot/v2/indexv2-3.png?raw=true)
 
 ## 6.更新日志
 
